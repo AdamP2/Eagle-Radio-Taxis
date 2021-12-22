@@ -1,0 +1,40 @@
+We are incredibly proud are of our many awards that we have received over the years – a 5 -Star Rating by one of South Africa’s leading tourism organization’s.
+A 5 Star rating by the Durban Chamber of Commerce, 
+voted the top Taxi Company in Durban by the readers of Durban’s Daily News 
+and our many letters from satisfied customers which include the Olympics committee – The Embassy of Switzerland 
+and Mali.
+
+Avis Car RentalWe are truly proud of our track record – many of our daily clients have utilized our service for over 20 years, 
+including Entabeni Hospital, which has been our daily client for nearly 50 years.
+If you are a busy executive visiting Durban for an important meeting or a tourist in the city for a few days of sunshine and a visit to our beaches, 
+historical townships  or you are thinking about a trip to our game parks - just e-mail us for a quote or call us 
+and we’ll be waiting for you at the Durban International Airport. 
+You will be on your way immediately – no waiting in queues for a hired car and we will take the stress out of navigating the streets of a strange city.  
+We will get you to your destination with a minimum of fuss. 
+
+Whenever you call 031-3378333 or 0800-330336, you’ll be met by a professional driver who knows Durban inside out.
+Whatsapp 078-345-7019. 
+
+Our experienced drivers are guaranteed to make your visit to Durban a hassle free experience. 
+
+<header>
+  <h2>Cities</h2>
+</header>
+
+<section>
+  <nav>
+    <ul>
+      <li><a href="#">London</a></li>
+      <li><a href="#">Paris</a></li>
+      <li><a href="#">Tokyo</a></li>
+    </ul>
+  </nav>
+  
+  <article>
+
+  </article>
+</section>
+
+<footer>
+  <p>Footer</p>
+</footer>
