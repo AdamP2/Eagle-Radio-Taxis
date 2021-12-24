@@ -1047,3 +1047,19 @@ div.a {
 }
 
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+#responsive {
+  width: 100%;
+  height: auto;
+}
+
+p.groove 
+{
+  border-style: groove;
+  width: 65%;
+  height: auto;
+}
